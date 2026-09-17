@@ -1,99 +1,38 @@
-# Atividade Prática de Markdown 🚀
+# Meu Perfil
 
-Repositório criado para exercitar e demonstrar a aplicação de sintaxe **Markdown** utilizada na documentação de projetos no GitHub.
+Olá! Sou uma pessoa em busca de aprender e crescer na área de Ciências da Computação.
 
----
+## oque eu quero ser?
 
-## 📌 Sumário
-1. [Sobre a Atividade](#-sobre-a-atividade)
-2. [Sintaxes Utilizadas](#-sintaxes-utilizadas)
-3. [Exemplos de Código](#-exemplos-de-código)
-4. [Mídia e Links](#-mídia-e-links)
-5. [Tabela de Exemplo](#-tabela-de-exemplo)
+Quero trabalhar como junior em tecnologia. Tenho interesse em aprender lógica, desenvolvimento web, algoritmos e boas práticas de programação.
 
----
+## Minhas habilidades
 
-## 🎯 Sobre a Atividade
+- Python
+- JavaScript
+- HTML
+- CSS
+- Git e GitHub
+- Lógica de programação
+- Estruturas básicas de dados
+- Banco de dados (conceitos básicos)
 
-O objetivo deste exercício foi praticar a estruturação de arquivos `README.md` limpos, profissionais e bem formatados. A formatação correta de texto melhora a navegabilidade e a apresentação de repositórios técnicos.
+## tecnologias
 
-### 💡 Destaques do Aprendizado
-- Organização hierárquica usando **títulos** (`#`, `##`, `###`).
-- Formatação de texto (**negrito**, *itálico*, ~~tachado~~).
-- Criação de **listas ordenadas e não ordenadas**.
-- Inserção de **links**, **imagens** e **tabelas**.
-- Blocos de código com destaque de sintaxe (*syntax highlighting*).
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 
----
+![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat-square)
 
-## 🛠️ Sintaxes Utilizadas
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
 
-### Listas de Tarefas (Task List)
-- [x] Aprender formatação básica de texto
-- [x] Criar tabelas estruturadas
-- [x] Inserir blocos de código
-- [x] Adicionar links e imagens
-- [ ] Publicar no repositório do GitHub
+![Blueprint Badge](https://img.shields.io/badge/Blueprint-137CBD?logo=blueprint&logoColor=fff&style=flat-square)
 
-### Lista Não Ordenada
-- Conceitos Básicos:
-  - Títulos e Parágrafos
-  - Listas e Citações
-- Conceitos Avançados:
-  - Tabelas e Badges
-  - Blocos de Código e Diff
+![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat-square)
 
----
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 
-## 💻 Exemplos de Código
+![Claude Code Badge](https://img.shields.io/badge/Claude%20Code-D97757?logo=claudecode&logoColor=fff&style=flat-square)
 
-Abaixo estão exemplos de como destacar trechos de código em **C** e **HTML**:
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 
-### Exemplo em C
-```c
-#include <stdio.h>
-
-int main() {
-    // Exemplo de expressão com precedência de operadores
-    int a = 2, b = 3, c = 4, d = 5;
-    int x = d + (a + b * c) / (c * 2 + a * b);
-    
-    printf("Resultado de x: %d\n", x);
-    return 0;
-}
-```
-
-### Exemplo em HTML
-```html
-<div class="card">
-  <h2>Atividade Markdown</h2>
-  <p>Praticando estruturação de documentação no GitHub.</p>
-</div>
-```
-
----
-
-## 🖼️ Mídia e Links
-
-Abaixo segue um exemplo de inserção de imagem via Markdown:
-
-![Exemplo de Banner](https://picsum.photos/800/300)
-
-> *“A boa documentação é tão importante quanto o próprio código.”*
-
-Para saber mais sobre a sintaxe oficial, visite o [Guia de Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
----
-
-## 📊 Tabela de Exemplo
-
-| Elemento | Sintaxe Markdown | Resultado |
-| :--- | :---: | :--- |
-| **Negrito** | `**texto**` | **texto** |
-| *Itálico* | `*texto*` | *texto* |
-| `Código Inline` | `` `código` `` | `código` |
-| Link | `[Texto](URL)` | [Texto](https://github.com) |
-
----
-
-*Atividade concluída com sucesso!* 🎉
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
